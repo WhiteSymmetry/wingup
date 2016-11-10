@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="Windows-1254" ?>
 <!--
     Copyright 2007 Don HO <don.h@free.fr>
 	
@@ -16,13 +16,12 @@
 -->
 
 <!-- Bu dosya isteğe bağlıdır.-->
-
 <GUP_NativeLangue name = "Turkish">
 	<PopupMessages>
 		<MSGID_NOUPDATE>Hiçbir güncelleme mevcut değildir.</MSGID_NOUPDATE>
 		<MSGID_UPDATEAVAILABLE>Bir güncelleme mevcuttur, onu indirmek ister misiniz?</MSGID_UPDATEAVAILABLE>
 		<MSGID_DOWNLOADSTOPPED>İndirme kullanıcı tarafından durduruldu. Güncelleme iptal edildi.</MSGID_DOWNLOADSTOPPED>
-		<MSGID_CLOSEAPP> açılmıştır.\rUpdater kurma işlemi kapanacaktır.\rContinue?</MSGID_CLOSEAPP>
+		<MSGID_CLOSEAPP> açılmıştır.\rGüncelleyici kurma işlemi kapanacaktır.\rDevam?</MSGID_CLOSEAPP>
 		<MSGID_ABORTORNOT>Güncellemeyi durdurmak istiyor musunuz?</MSGID_ABORTORNOT>
 	</PopupMessages>
 </GUP_NativeLangue>
